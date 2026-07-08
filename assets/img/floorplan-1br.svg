@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="700" viewBox="0 0 600 700" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Colonial Beach Village one-bedroom apartment floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="22" y="14" width="562" height="669"/>
+<path class="w" d="M128,333 V347 M128,349 V460 M263,330 V414 M263,506 V586 M263,658 V688 M424,519 V689 M16,337 H133 M256,337 H589 M16,470 H126 M257,524 H585"/>
+<path class="d" d="M128,338 V353 M128,408 V434 M165,524 H181 M220,524 H235"/>
+<path class="win" d="M579,524 V683 M584,524 V683 M589,524 V683 M577,524 H591 M577,683 H591"/>
+<path class="win" d="M136,9 H220 M136,14 H220 M136,19 H220 M136,7 V21 M220,7 V21"/>
+<path class="arc" d="M144,683 V591 M144,591 A92,92 0 0 1 236,683"/>
+<path class="arc" d="M304,683 V593 M304,593 A90,90 0 0 1 394,683"/>
+<path class="arc" d="M429,683 V528 M429,528 A155,155 0 0 1 584,683"/>
+<path class="wo" d="M22,14 H136 M220,14 H584 V524 M584,683 V683 H584 M429,683 H394 M304,683 H236 M144,683 H22 V14"/>
+<text class="rm" x="400" y="200">Living Room</text>
+<text class="rm" x="415" y="435">Kitchen</text>
+<text class="cl" x="350" y="595">1/2 Bath</text>
+<text class="cl" x="70" y="405">Closet</text>
+<text class="cl" x="190" y="510">Hallway</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="700" viewBox="0 0 690 700" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Colonial Beach Village two-bedroom townhouse upper level floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="12" y="12" width="661" height="660"/>
+<path class="w" d="M134,368 V464 M134,470 V578 M134,653 V675 M222,371 V467 M314,12 V281 M488,287 V381 M9,24 H318 M321,24 H677 M9,200 H26 M127,200 H320 M128,376 H142 M315,376 H671 M147,467 H222 M25,559 H120"/>
+<path class="d" d="M134,601 V622 M222,377 V399 M314,354 V385 M488,353 V367 M652,24 H671 M16,200 H30 M130,200 H155 M193,200 H209 M288,200 H306 M304,376 H318 M136,467 H150 M9,559 H29"/>
+<path class="wo" d="M12,12 H673 V672 H12 V12"/>
+<text class="rm" x="130" y="125">Bathroom</text>
+<text class="rm" x="510" y="145">Bedroom</text>
+<text class="rm" x="460" y="540">Bedroom</text>
+<text class="cl" x="130" y="275">Hallway</text>
+<text class="cl" x="575" y="325">Closet</text>
+<text class="sm" x="185" y="420">Closet</text>
+<text class="sm" x="60" y="615">Closet</text>
+</svg>
