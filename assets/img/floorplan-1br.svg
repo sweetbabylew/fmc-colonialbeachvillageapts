@@ -1,27 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="700" viewBox="0 0 600 700" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Colonial Beach Village one-bedroom apartment floor plan">
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="833" viewBox="0 0 714 833" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Colonial Beach Village one-bedroom apartment floor plan">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="22" y="14" width="562" height="669"/>
-<path class="w" d="M128,333 V347 M128,349 V460 M263,330 V414 M263,506 V586 M263,658 V688 M424,519 V689 M16,337 H133 M256,337 H589 M16,470 H126 M257,524 H585"/>
-<path class="d" d="M128,338 V353 M128,408 V434 M165,524 H181 M220,524 H235"/>
-<path class="win" d="M579,524 V683 M584,524 V683 M589,524 V683 M577,524 H591 M577,683 H591"/>
-<path class="win" d="M136,9 H220 M136,14 H220 M136,19 H220 M136,7 V21 M220,7 V21"/>
-<path class="arc" d="M144,683 V591 M144,591 A92,92 0 0 1 236,683"/>
-<path class="arc" d="M304,683 V593 M304,593 A90,90 0 0 1 394,683"/>
-<path class="arc" d="M429,683 V528 M429,528 A155,155 0 0 1 584,683"/>
-<path class="wo" d="M22,14 H136 M220,14 H584 V524 M584,683 V683 H584 M429,683 H394 M304,683 H236 M144,683 H22 V14"/>
-<text class="rm" x="400" y="200">Living Room</text>
-<text class="rm" x="415" y="435">Kitchen</text>
-<text class="cl" x="350" y="595">1/2 Bath</text>
-<text class="cl" x="70" y="405">Closet</text>
-<text class="cl" x="190" y="510">Hallway</text>
+<rect class="fp" x="26" y="17" width="669" height="796"/>
+<path class="w" d="M153,412 V465 M153,515 V546 M313,393 V493 M313,602 V698 M313,784 V818 M505,617 V821 M18,400 H158 M304,400 H699 M19,559 H151 M306,623 H697"/>
+<path class="d" d="M149,465 V515 M157,465 V515 M163,13 H263 M163,21 H263 M309,491 V601 M317,491 V601 M309,694 V788 M317,694 V788"/>
+<path class="arc" d="M175,813 V706 M175,706 A107,107 0 0 1 282,813"/>
+<path class="win" d="M360,808 H469 M360,813 H469 M360,818 H469 M360,806 V820 M469,806 V820"/>
+<path class="st" d="M26,402 V552 M152,402 V465 M152,515 V552 M26,405 H152 M26,430 H152 M26,512 H152 M26,540 H152"/>
+<path class="st" d="M26,572 V806 M152,572 V806 M26,596 H152 M26,621 H152 M26,624 H152 M26,649 H152 M26,677 H152 M26,705 H152 M26,733 H152 M26,757 H152 M26,761 H152 M26,789 H152"/>
+<path class="wo" d="M26,17 H163 M263,17 H695 V627 M695,813 V813 H695 M511,813 H469 M360,813 H282 M175,813 H26 V17"/>
+<text class="rm" x="470" y="235">Living Room</text>
+<text class="rm" x="495" y="515">Kitchen</text>
+<text class="cl" x="88" y="490">Closet</text>
+<text class="cl" x="233" y="625">Hallway</text>
+<text class="cl" x="405" y="730">1/2 Bath</text>
 </svg>

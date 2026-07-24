@@ -1,24 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="690" height="700" viewBox="0 0 690 700" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Colonial Beach Village two-bedroom townhouse upper level floor plan">
+<svg xmlns="http://www.w3.org/2000/svg" width="781" height="791" viewBox="0 0 781 791" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Colonial Beach Village two-bedroom townhouse upper level floor plan">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="12" y="12" width="661" height="660"/>
-<path class="w" d="M134,368 V464 M134,470 V578 M134,653 V675 M222,371 V467 M314,12 V281 M488,287 V381 M9,24 H318 M321,24 H677 M9,200 H26 M127,200 H320 M128,376 H142 M315,376 H671 M147,467 H222 M25,559 H120"/>
-<path class="d" d="M134,601 V622 M222,377 V399 M314,354 V385 M488,353 V367 M652,24 H671 M16,200 H30 M130,200 H155 M193,200 H209 M288,200 H306 M304,376 H318 M136,467 H150 M9,559 H29"/>
-<path class="wo" d="M12,12 H673 V672 H12 V12"/>
-<text class="rm" x="130" y="125">Bathroom</text>
-<text class="rm" x="510" y="145">Bedroom</text>
-<text class="rm" x="460" y="540">Bedroom</text>
-<text class="cl" x="130" y="275">Hallway</text>
-<text class="cl" x="575" y="325">Closet</text>
-<text class="sm" x="185" y="420">Closet</text>
-<text class="sm" x="60" y="615">Closet</text>
+<rect class="fp" x="19" y="14" width="743" height="746"/>
+<path class="w" d="M152,416 V525 M152,531 V654 M152,738 V763 M251,419 V528 M355,13 V318 M355,407 V424 M554,325 V423 M10,222 H29 M143,222 H362 M143,425 H160 M357,425 H760 M166,528 H252 M10,631 H24 M31,631 H136"/>
+<path class="d" d="M29,225 H131 M29,233 H131 M358,316 V394 M366,316 V394 M593,316 H719 M593,324 H719 M159,414 H239 M159,422 H239 M271,414 H358 M271,422 H358 M153,666 V730 M161,666 V730"/>
+<path class="st" d="M143,528 H257"/>
+<path class="w" d="M550,320 H591 M722,320 H763"/>
+<path class="st" d="M19,430 V760 M152,430 V654 M152,738 V760 M19,458 H152 M19,485 H152 M19,512 H152 M19,540 H152 M19,568 H152 M19,595 H152 M19,622 H152 M19,650 H152 M19,678 H152 M19,705 H152 M19,732 H152"/>
+<path class="wo" d="M19,14 H762 V760 H19 V14"/>
+<text class="rm" x="150" y="140">Bathroom</text>
+<text class="rm" x="565" y="175">Bedroom</text>
+<text class="cl" x="140" y="315">Hallway</text>
+<text class="cl" x="660" y="378">Closet</text>
+<text class="rm" x="495" y="625">Bedroom</text>
+<text class="sm" x="202" y="478">Closet</text>
+<text class="sm" x="85" y="690">Closet</text>
 </svg>
