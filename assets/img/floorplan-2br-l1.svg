@@ -12,10 +12,10 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="13" y="17" width="1167" height="546"/>
-<path class="w" d="M117,11 V66 M117,154 V400 M597,11 V161 M597,353 V569 M701,10 V160 M839,10 V170 M839,246 V367 M591,154 H609 M683,154 H726 M813,154 H845 M832,257 H1189 M591,356 H611 M696,356 H924 M1099,356 H1187 M7,393 H122"/>
+<path class="w" d="M683,154 L726,154 M813,154 L839,154 M1180,257 L839,257 L839,356 M611,356 L597,356 L597,563 M696,356 L924,356 M1099,356 L1180,356 M13,393 L117,393 L117,154 M117,17 L117,66 M597,17 L597,154 M701,17 L701,154 M839,17 L839,170"/>
 <path class="d" d="M113,61 V156 M121,61 V156 M835,166 V249 M843,166 V249 M606,150 H681 M606,158 H681 M722,150 H817 M722,158 H817 M609,352 H702 M609,360 H702 M920,352 H1101 M920,360 H1101"/>
 <path class="arc" d="M13,545 H135 M13,423 A122,122 0 0 1 135,545"/>
-<path class="wo" d="M13,17 H1180 V563 H13 V545 M13,423 V17"/>
+<path class="wo" d="M13,17 H1180 V563 H13 V545 M13,423 V17 H23"/>
 <text class="rm" x="355" y="150">Kitchen</text>
 <text class="rm" x="360" y="430">Living Room</text>
 <text class="rm" x="1015" y="112">Bathroom</text>

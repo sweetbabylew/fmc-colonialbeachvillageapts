@@ -12,16 +12,35 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="26" y="17" width="669" height="796"/>
-<path class="w" d="M153,412 V465 M153,515 V546 M313,393 V493 M313,602 V698 M313,784 V818 M505,617 V821 M18,400 H158 M304,400 H699 M19,559 H151 M306,623 H697"/>
-<path class="d" d="M149,465 V515 M157,465 V515 M163,13 H263 M163,21 H263 M309,491 V601 M317,491 V601 M309,694 V788 M317,694 V788"/>
-<path class="arc" d="M175,813 V706 M175,706 A107,107 0 0 1 282,813"/>
+<path class="w" d="M26,400 L153,400 L153,465 M695,400 L313,400 L313,493 M26,559 L151,559 M313,623 L695,623 M153,515 L153,546 M313,602 L313,698 M313,784 L313,813 M505,623 L505,813"/>
+<path class="d" d="M149,465 V515 M157,465 V515 M309,491 V601 M317,491 V601 M309,694 V788 M317,694 V788"/>
+<path class="arc" d="M175,813 V706 M282,813 A107,107 0 0 0 175,706"/>
 <path class="win" d="M360,808 H469 M360,813 H469 M360,818 H469 M360,806 V820 M469,806 V820"/>
-<path class="st" d="M26,402 V552 M152,402 V465 M152,515 V552 M26,405 H152 M26,430 H152 M26,512 H152 M26,540 H152"/>
-<path class="st" d="M26,572 V806 M152,572 V806 M26,596 H152 M26,621 H152 M26,624 H152 M26,649 H152 M26,677 H152 M26,705 H152 M26,733 H152 M26,757 H152 M26,761 H152 M26,789 H152"/>
-<path class="wo" d="M26,17 H163 M263,17 H695 V627 M695,813 V813 H695 M511,813 H469 M360,813 H282 M175,813 H26 V17"/>
+<path class="st" d="M26,400 V559 M153,400 V465 M153,515 V559"/>
+<path class="st" d="M26,559 V813 M152,559 V813"/>
+<path class="st" d="M161,14.0 H219"/>
+<path class="st" d="M186,22.0 H236"/>
+<path class="st" d="M188.0,12 V24"/>
+<path class="st" d="M187,16.0 H233"/>
+<path class="st" d="M235.0,18 V23"/>
+<path class="st" d="M26,406.0 H153"/>
+<path class="st" d="M26,432.0 H153"/>
+<path class="st" d="M26,460.0 H153"/>
+<path class="st" d="M26,488.0 H153"/>
+<path class="st" d="M26,512.0 H153"/>
+<path class="st" d="M26,540.0 H153"/>
+<path class="st" d="M26,596.0 H152"/>
+<path class="st" d="M26,624.0 H152"/>
+<path class="st" d="M26,649.0 H152"/>
+<path class="st" d="M26,677.0 H152"/>
+<path class="st" d="M26,705.0 H152"/>
+<path class="st" d="M26,733.0 H152"/>
+<path class="st" d="M26,761.0 H152"/>
+<path class="st" d="M26,789.0 H152"/>
+<path class="wo" d="M26,17 H163 M263,17 H695 V627 M695,813 V813 H695 M511,813 H469 M360,813 H282 M175,813 H26 V17 H36"/>
 <text class="rm" x="470" y="235">Living Room</text>
 <text class="rm" x="495" y="515">Kitchen</text>
-<text class="cl" x="88" y="490">Closet</text>
+<text class="cl" x="88" y="503">Closet</text>
 <text class="cl" x="233" y="625">Hallway</text>
 <text class="cl" x="405" y="730">1/2 Bath</text>
 </svg>
